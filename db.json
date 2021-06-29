@@ -2,7 +2,10 @@
   "data": [
     {
       "id": 794,
-      "post_name": "Premium Quality"
+      "post_name": "Premium Quality",
+      "post_title": "rem",
+      "post_data_gmt": "03.09.2002",
+      "post_status":"published"
     }
   ]
 }
